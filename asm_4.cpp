@@ -24,7 +24,7 @@ double func(double a, double b, double c) {
         fsub                 ; st(0) = b + c4 * a - c10
         fldz                 ; st(1) = b + c4 * a - c10, st(0) = 0
         fucompp              ; st(0) ? st(1)
-        fstsw ax             ; swr->ax
+        fstsw ax             ; swr -> ax
         sahf                 ; c3, c2, c0 (ah) -> zf, pf, cf (flags)
         jz division_by_zero
 
