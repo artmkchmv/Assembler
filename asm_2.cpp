@@ -3,7 +3,6 @@
 using namespace std;
 
 int main() {
-
 	cout << "     { (a * a - 50) / (a + b) , a > b\n";
 	cout << "X =  { -3a , a = b\n";
 	cout << "     { (b * b - 2) / a , a < b\n";
