@@ -15,3 +15,4 @@
 <p>Calculate the value of the function (FPU, float/double, Arithmetic operations, Conditional transitions, Division_By_Zero)</p>
 <img src="images/equals.png" alt="Equals">
 <h3>Lab. 6</h3>
+<p>Calculate the value of the function (FPU functions)</p>
